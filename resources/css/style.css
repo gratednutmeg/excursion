@@ -4,3 +4,25 @@
   background-color: black;
   color: white;
 }
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-size: 21px;
+}
+
+.footer {
+  text-align: right;
+}
+
+p, .footer {
+  color: grey;
+}
